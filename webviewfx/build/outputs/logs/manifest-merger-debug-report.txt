@@ -8,7 +8,7 @@ INJECTED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main
 INJECTED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:2:1-28:12
 INJECTED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:3:5-37
+		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml
 		INJECTED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml
 	android:versionName
@@ -49,12 +49,12 @@ ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/An
 		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:16:9-40
-activity#com.example.webviewmkt.MainActivity
+activity#com.example.webviewfx.MainActivity
 ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:17:9-25:20
 	android:label
 		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:18:13-63
+		ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:18:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/bruce/SW/Android/StudioProjects/WebViewFX/webviewfx/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
