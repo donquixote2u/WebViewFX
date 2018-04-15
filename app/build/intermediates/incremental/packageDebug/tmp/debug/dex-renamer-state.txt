@@ -1,4 +1,0 @@
-#Thu Apr 12 21:57:14 NZST 2018
-base.0=/home/bruce/SW/Android/StudioProjects/WebViewMkt/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
